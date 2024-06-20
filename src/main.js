@@ -1,7 +1,8 @@
 import "./styles/style.css";
 import * as THREE from "three";
-import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
 import { AnimationMixer } from "three/src/animation/AnimationMixer.js";
+
 console.log(THREE);
 
 // Canvas
